@@ -1,0 +1,10 @@
+gdcm
+inquirer
+nomkl
+numpy
+pillow
+pydicom==2.1.0
+pynetdicom
+pytz
+pyyaml
+tqdm
